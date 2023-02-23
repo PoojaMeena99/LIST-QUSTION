@@ -1,0 +1,25 @@
+a=input("enter the no.")
+b=input("enter the no.")
+l=[]
+c=int(a)+int(b)
+d=str(c)
+l.append(d)
+print(d)
+print(l)
+print(type(d))
+
+
+
+
+def fun():
+    a=input("enter the no.")
+    b=input("enter the no.")
+    l=[]
+    c=int(a)+int(b)
+    d=str(c)
+    l.append(d)
+    print(d)
+    print(l)
+    print(type(d))
+fun()
+
