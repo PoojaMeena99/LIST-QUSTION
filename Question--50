@@ -1,0 +1,15 @@
+# a=["i am pooja"]
+# i=0
+# n=a[i]
+# while i<len(n):
+#     k=n.split()
+#     i=i+1
+#     print(k)
+
+
+a=["i am pooja"]
+# n=a[i]
+# while i<len(n):
+k=a.split()
+    # i=i+1
+print(k)
