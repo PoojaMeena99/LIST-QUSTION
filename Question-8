@@ -1,0 +1,44 @@
+    a=input("enter  lowesrcase and uppercase")
+    c1=0
+    c2=0
+    i=0
+    while i<len(a):
+        if a[i]==a[i].upper():
+            c1=c1+1
+        elif a[i]==a[i].lower():
+            c2=c2+1 
+        i=i+1
+    print(c1,c2)           
+
+
+
+a=input("enter no.ALPHABET")
+c1=0
+c2=0
+i=0
+while i<len(a):
+    if a[i]>="a" and a[i]<="z":
+        c1=c1+1
+    if  a[i]>="A" and a[i]<="Z":
+        c2=c2+1 
+    i=i+1
+print(c1)
+print(c2)          
+
+
+
+
+def fun():
+    a=input("enter  lowesrcase and uppercase")
+    c1=0
+    c2=0
+    i=0
+    while i<len(a):
+        if a[i]==a[i].upper():
+            c1=c1+1
+        elif a[i]==a[i].lower():
+            c2=c2+1 
+        i=i+1
+    print("lowercase",c2)
+    print("uppercase",c1)
+fun()            
