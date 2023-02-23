@@ -1,0 +1,37 @@
+# a=['abc', 'xyz', 'aba', '1221','kok','koiok']
+# # result= 2.
+# # def  list():
+# i=0
+# b=0
+# count=0
+# while i<len(a):
+#    if len(a[i])>2 and a[i][0]==a[i][-1]:
+#        count=count+1
+#    i=i+1
+# print(count)       
+
+
+
+# a=['abc', 'xyz', 'aba', '1221','kok','koiok']
+# # result= 2.
+# # def  list():
+# i=0
+# b=0
+# count=0
+# while i<len(a):
+#    if len(a[i])>2 and a[i][0]==a[i][-1]:
+#        count=count+1
+#    i=i+1
+# print(count)       
+
+
+
+
+# a=int(input("number"))
+# b=1
+# while b<=10:
+#     print(a*b)
+#     b=b+1
+
+
+
